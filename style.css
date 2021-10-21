@@ -249,6 +249,11 @@ html, body {
     margin-right: 30px;
 }
 
+.product-hover img {
+    width: 270px;
+    height: 270px;
+}
+
 .text-product {
     width: 270px;
     height: 270px;
@@ -386,6 +391,11 @@ html, body {
     width: 370px;
     height: 370px;
     position: relative;
+}
+
+.block-hover img{
+    width: 370px;
+    height: 370px;
 }
 
 .text-product-block {
